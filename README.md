@@ -33,5 +33,5 @@ This is a fast-paced racing game where you control a car, dodging obstacles on t
 ![Gameplay](screenshots/gameplay.png)
 
 ## Author
-- **Name**: [Insert student’s name or nickname]
+- **Name**: Artur
 - **About**: Created as the final project for my programming course. This is my first game, and I’m proud of it!
